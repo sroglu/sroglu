@@ -1,4 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋-->
+
+![](https://github.com/sroglu/sroglu/mossWorking.gif)
 
 <!--
 **sroglu/sroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
